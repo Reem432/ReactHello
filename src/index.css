@@ -11,3 +11,108 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.head{
+  color: #2C3E50;
+}
+.info{
+  display: flex;
+  width: 50%;
+  align-items: center;
+  justify-content: space-between;
+  justify-content: center;
+  margin: auto;
+}
+.info .before {
+  width: 86px;
+  height: 4px;
+  background-color:white;
+}
+.info .after{
+  width: 86px;
+  height: 4px;
+  background-color:white;
+}
+
+ .info .icon i{
+  font-size: 16px;
+  color: #2C3E50;
+  margin-inline: 16px;
+  color: white;
+}
+
+.info{
+  display: flex;
+  width: 50%;
+  align-items: center;
+  justify-content: space-between;
+  justify-content: center;
+  margin: auto;
+}
+.port .info .before {
+  width: 86px;
+  height: 4px;
+  background-color:#2C3E50;
+}
+.port .info .after{
+  width: 86px;
+  height: 4px;
+  background-color:#2C3E50;
+}
+
+ .port .info .icon i{
+  font-size: 16px;
+  color: #2C3E50;
+  margin-inline: 16px;
+  color: #2C3E50;
+}
+.info{
+  display: flex;
+  width: 50%;
+  align-items: center;
+  justify-content: space-between;
+  justify-content: center;
+  margin: auto;
+}
+.info .before {
+  width: 86px;
+  height: 4px;
+  background-color:white;
+}
+.info .after{
+  width: 86px;
+  height: 4px;
+  background-color:white;
+}
+
+ .info .icon i{
+  font-size: 16px;
+  color: #2C3E50;
+  margin-inline: 16px;
+  color: white;
+}
+
+.info{
+  display: flex;
+  width: 50%;
+  align-items: center;
+  justify-content: space-between;
+  justify-content: center;
+  margin: auto;
+}
+.contact .info .before {
+  width: 86px;
+  height: 4px;
+  background-color:#2C3E50;
+}
+.contact .info .after{
+  width: 86px;
+  height: 4px;
+  background-color:#2C3E50;
+}
+
+ .contact .info .icon i{
+  font-size: 16px;
+  color: #2C3E50;
+  margin-inline: 16px;
+  color: #2C3E50;
+}
